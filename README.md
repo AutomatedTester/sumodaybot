@@ -1,4 +1,3 @@
-sumodaybot
-==========
+#SUMO Day Bot
 
-A IRC bot for greeting users when they join a SUMO Day
+This is an IRC bot that greets users as they come into the channel and tell them the information of the SUMO day. 
